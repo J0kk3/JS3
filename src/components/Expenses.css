@@ -1,0 +1,5 @@
+.expenses {
+    padding: 1rem 1rem;
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
